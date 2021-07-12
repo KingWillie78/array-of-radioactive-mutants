@@ -1,7 +1,6 @@
 /******************
  * YOUR CODE HERE *
  ******************/
-
 const addMeToEnd = arr => arr.push('Colin')
  const addMeToStart = arr => arr.unshift('Colin')
  const changeLast = (arr, newValue) => arr[arr.length - 1] = newValue
